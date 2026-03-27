@@ -1,0 +1,7 @@
+torch
+torchvision
+gradio
+grad-cam
+Pillow
+numpy
+pandas
