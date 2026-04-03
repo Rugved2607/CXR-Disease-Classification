@@ -108,8 +108,6 @@ scikit-learn
 
 ## 🖥️ Demo
 
-![Demo Screenshot](demo.png)
-
 Try it live → [huggingface.co/spaces/Rugved2607/cxr-disease-classifier](https://huggingface.co/spaces/Rugved2607/cxr-disease-classifier)
 
 ---
